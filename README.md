@@ -57,6 +57,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-![MatheusKyoshiShoji's Stats](https://github-readme-stats.vercel.app/api?username=MatheusKyoshiShoji&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
