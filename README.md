@@ -1,8 +1,6 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/63069352?v=4"  />
-</div>
-
 ###
+
+<h1 align="center">Welcome! 👋</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-kyoshi-shoji-495218263/" target="_blank">
@@ -12,10 +10,6 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">Welcome! 👋</h1>
 
 ###
 
@@ -46,7 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
