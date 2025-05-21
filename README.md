@@ -24,6 +24,8 @@
 
 ###
 
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuskyoshishoji&theme=dark" alt="matheuskyoshishoji" /></p></div>
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
